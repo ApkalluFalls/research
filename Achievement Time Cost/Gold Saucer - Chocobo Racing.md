@@ -1,5 +1,10 @@
 # Chocobo Racing
 
+### Contents
+
+* [Off to the Races IV](#off-to-the-races-iv)
+* [Winningest Jockey](#winningest-jockey)
+
 ## Off to the Races IV
 > Participate in 3,000 sanctioned chocobo races.
 

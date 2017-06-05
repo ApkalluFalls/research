@@ -33,8 +33,8 @@ You'll want a Chocobo capable of entering R-300 races using the [Super Sprint bu
 
 ### Calculation
 
-* `160 seconds total time * 3000 repetitions`
-* = `480000 seconds / 60 minutes / 60 hours`
+* `160 seconds total time * 3,000 repetitions`
+* = `480,000 seconds / 60 minutes / 60 hours`
 * = `134 hours`, rounded up
 
 #### Footnotes
@@ -67,5 +67,5 @@ See Off to the Races IV ([listed above](#off-to-the-races-iv)).
 
 * `500 repetitions / 0.80 win rate`
 * = `625 repetitions * 160 seconds total time`
-* = `100000 seconds / 60 minutes / 60 hours`
+* = `100,000 seconds / 60 minutes / 60 hours`
 * = `28 hours`, rounded up

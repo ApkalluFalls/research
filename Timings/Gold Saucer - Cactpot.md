@@ -10,7 +10,9 @@
 
 | Estimate |
 | :-- |
-| `9 years, 5 months and 5 days` |
+| `9 years, 5 months and 1 week`, on average |
+| `1 week`, best possible outcome |
+| `31 years, 11 months and 3 weeks`, worst possible outcome |
 
 Note: *This assumes the purchase of 3 tickets every week and ignores the participant bonus level completely (as this varies both over time and per server).*
 
@@ -58,6 +60,19 @@ Finally, this means that it will take:
 * = `491.8017 weeks / 52.1429 weeks in a year`
 * = `9.43 years`, rounded down
 
+The worst possible outcome from buying three tickets in a single week would be:
+
+* `200 MGP * 3 tickets`
+* = `600 MGP per week`
+
+If this were to happen every week, it will take:
+
+* `1,000,000 total MGP / 600 MGP per week`
+* = `1,666.667 weeks / 52.1429 weeks in a year`
+* = `31.96 years`, rounded down
+
+Naturally, the best outcome would be to claim the first place prize on the first week of playing.
+
 ---
 
 ## Mountains Out Of Gil-hills
@@ -65,7 +80,9 @@ Finally, this means that it will take:
 
 | Estimate |
 | :-- |
-| `2 years, 6 months, 1 week and 4 days` |
+| `2 years, 6 months, 1 week and 4 days`, on average |
+| `1 month and 3 days`, best possible outcome |
+| `25 years, 4 months and 7 days`, worst possible outcome |
 
 ### Preparation
 
@@ -137,3 +154,25 @@ Finally, this means that it will take:
 * `1,000,000 total MGP / 1,081.05 MGP per day`
 * = `925.0266 days / 365.25 days in a year`
 * = `2.53 years`, rounded down
+
+The best possible outcome from buying three tickets in a single day would be:
+
+* `10,000 MGP * 3 tickets`
+* = `30,000 MGP per day`
+
+If this were to happen every day, it will take:
+
+* `1,000,000 total MGP / 30,000 MGP per day`
+* = `33.33333 days / 365.25 days in a year`
+* = `0.091 years`, rounded down
+
+The worst possible outcome from buying three tickets in a single day would be:
+
+* `36 MGP * 3 tickets`
+* = `108 MGP per day`
+
+If this were to happen every day, it will take:
+
+* `1,000,000 total MGP / 108 MGP per day`
+* = `33.33333 days / 365.25 days in a year`
+* = `25.35 years`, rounded down

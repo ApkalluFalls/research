@@ -2,7 +2,7 @@
 
 ### Contents
 
-* [On The Payroll VI](on-the-payroll-vi)
+* [On The Payroll VI](on-the-payroll-vi) &ndash; Earn a cumulative total of 20,000,000 gil from levequests
 
 ## On The Payroll VI
 > Earn a cumulative total of 20,000,000 gil from levequests.

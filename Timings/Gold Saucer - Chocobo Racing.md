@@ -2,8 +2,8 @@
 
 ### Contents
 
-* [Off to the Races IV](#off-to-the-races-iv)
-* [Winningest Jockey](#winningest-jockey)
+* [Off to the Races IV](#off-to-the-races-iv) &ndash; Participate in 3,000 sanctioned chocobo races
+* [Winningest Jockey](#winningest-jockey) &ndash; Place first in 500 sanctioned chocobo races
 
 ## Off to the Races IV
 > Participate in 3,000 sanctioned chocobo races.

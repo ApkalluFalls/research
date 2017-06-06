@@ -2,8 +2,8 @@
 
 ### Contents
 
-* [Work Smarter, Not Harder](#work-smarter-not-harder)
-* [Mountains Out Of Gil-hills](#mountains-out-of-gil-hills)
+* [Work Smarter, Not Harder](#work-smarter-not-harder) &ndash; Win a cumulative total of 1,000,000 MGP from the Jumbo Cactpot
+* [Mountains Out Of Gil-hills](#mountains-out-of-gil-hills) &ndash; Win a cumulative total of 1,000,000 MGP from the Mini Cactpot
 
 ## Work Smarter, Not Harder
 > Win a cumulative total of 1,000,000 MGP from the Jumbo Cactpot.
